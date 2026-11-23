@@ -11,14 +11,17 @@
 O repositório foi construído com base em **24 fontes** selecionadas, divididas em três pilares:
 
 **a) Obras e Conceitos de Benjamin Graham (Pai do Value Investing)**
+
 - **Fontes:** *O Investidor Inteligente* (áudios, resumos comentados e e-books), artigos da Columbia Business School, pesquisas sobre o Número de Graham e o artigo acadêmico *Generating Excess Returns through Value Investing* (Nordic Equity Markets).
 - **Por que confiamos:** São obras e pesquisas consagradas mundialmente, validadas por quase um século de testes no mercado financeiro e aplicadas pelos maiores investidores da história (como Warren Buffett).
 
 **b) Ensinamentos de Luiz Barsi Filho (o maior investidor individual brasileiro)**
+
 - **Fontes:** Vídeos e aulas oficiais (*18 Minutos de Conselhos Brutalmente Honestos*, *O Guia Completo de Investimentos* e *Aulas do Método Barsi*).
 - **Por que confiamos:** Barsi possui mais de 50 anos de histórico público de sucesso na B3, demonstrando na prática a eficácia da construção de carteiras focadas em ações perenes e dividendos para a geração de renda passiva.
 
 **c) Artigos e Análises Institucionais de Apoio**
+
 - **Fontes:** Análises e resenhas do BTG Pactual, Musa Capital, Safal Niveshak e do livro *A Árvore do Dinheiro* (Prof. Jurandir Macedo Jr.).
 - **Por que confiamos:** São materiais produzidos por analistas, educadores e casas de análise renomadas, servindo como reforço conceitual e metodológico.
 
@@ -31,25 +34,42 @@ A instrução (prompt) fornecida ao notebook orienta a IA a atuar como um copilo
 ### 4. Perguntas Feitas, Respostas Obtidas e Fontes Associadas
 
 **❓ Pergunta 1:** *"Como a estratégia de longo prazo supera a mentira de ganhar dinheiro rapidamente?"*
-- **Resumo da resposta:** O notebook explicou a diferença entre especulação (apostas de curto prazo) e investimento consciente. Demonstrou que o longo prazo reduz o risco estatístico, foca na visão de dono de negócios reais, aproveita o efeito bola de neve dos dividendos/juros compostos e protege o patrimônio através da Margem de Segurança.
-- **Fontes utilizadas:** *O Investidor Inteligente* (Benjamin Graham), *18 Minutos de Conselhos Brutalmente Honestos* (Luiz Barsi) e *O Guia Completo de Investimentos* (Luiz Barsi).
 
-**❓ Pergunta 2:** *"Quais são os principais pilares que tornam uma boa ação para se investir?"*
-- **Resumo da resposta:** A IA listou e detalhou 6 pilares fundamentais:
-  1. Setor Perene e Essencial (BESST);
-  2. Histórico Consistente de Lucros e Dividendos (`DY ≥ 6% a.a.`);
-  3. Margem de Segurança / Valuation Descontado (`P/L ≤ 15`, `P/VP ≤ 1,5`);
-  4. Saúde Financeira e Baixo Endividamento;
-  5. Grande Porte e Consolidação;
-  6. Visão de Sócio de Longo Prazo.
-- **Fontes utilizadas:** *MÉTODO BARSI - Aula 1*, *Benjamin Graham: 10 Key Indicators for Stock Selection* e *Arquitetura e Fundamentos da Metodologia de Ben Graham*.
+- **Resumo da Resposta:** A estratégia de longo prazo supera a ilusão do ganho rápido substituindo a especulação emocional por fundamentos econômicos rigorosos, matemática dos juros compostos e controle comportamental. A resposta detalhou quatro pilares:
 
-**❓ Pergunta 3:** *"Discuta sobre o que essas fontes dizem de Benjamin Graham e o Value Investing no contexto mais amplo."*
-- **Resumo da resposta:** Foi apresentada uma análise aprofundada comparando Investimento vs. Especulação, a alegoria do Sr. Mercado, a fórmula da Margem de Segurança, a separação entre Investidor Defensivo e Empreendedor (Número de Graham, estratégia Net-Net), e a evolução histórica da estratégia (Buffett, Greenblatt e Piotroski).
-- **Fontes utilizadas:** *Value Investing History* (Columbia Business School), *Value Investing Principles - From Graham To Buffett*, *Generating Excess Returns through Value Investing* e *The Intelligent Investor*.
+  1. **Investimento vs. Especulação:** O investimento exige análise profunda, preservação do capital e visão de sócio de um negócio real; a especulação aposta em oscilações de curto prazo.
+  2. **Estatística e Tempo:** No curto prazo, a probabilidade de ganho aproxima-se de uma aposta de cara ou coroa (corroída por taxas e impostos). No longo prazo (20 a 30 anos), o risco de ruína cai drasticamente e o mercado reflete o valor real acumulado pela empresa.
+  3. **Juros Compostos e Proventos:** Foco no acúmulo contínuo de quantidade de ações de empresas perenes e no reinvestimento sistemático dos dividendos para gerar um efeito "bola de neve".
+  4. **Margem de Segurança e o Sr. Mercado:** Adoção de um desconto quantitativo em relação ao valor intrínseco para proteger o patrimônio contra volatilidades e crises.
+
+- **Fontes Principais Consultadas:**
+  - *Arquitetura e Fundamentos da Metodologia de Investimento de Benjamin Graham*
+  - *O Investidor Inteligente* (Áudios, resumos e análises de Benjamin Graham)
+  - *Mr. Market* (Alegoria de Benjamin Graham na Wikipedia)
+  - *MÉTODO BARSI: O jeito mais seguro de enriquecer com ações* & *Conselhos sobre investimentos* (Luiz Barsi)
+  - *Como investir dinheiro: Principais conclusões do Investidor Inteligente* (Soluções Stoik)
+  - *Value Investing Principles - From Graham To Buffett* (Safal Niveshak)
+
+---
+
+**❓ Pergunta 2:** *"Discuta sobre o que essas fontes dizem de Benjamin Graham e o Value Investing no contexto mais amplo."*
+
+- **Resumo da Resposta:** Graham é apresentado como o "pai do *Value Investing*", responsável por transformar a aplicação em bolsa em uma disciplina analítica orientada a dados. A discussão abordou:
+
+  1. **Fronteira Analítica:** Definição rigorosa de operação de investimento (análise profunda, segurança do principal e retorno adequado).
+  2. **Dois Pilares Fundamentais:** A diferença entre Preço e Valor Intrínseco (ilustrada pela metáfora do maníaco-depressivo *Sr. Mercado*) e a *Margem de Segurança* como amortecedor contra incertezas.
+  3. **Perfis de Investidor:** O *Investidor Defensivo* (foco em grandes empresas, estabilidade, rebalanceamento 50/50 e baixo esforço) versus o *Investidor Empreendedor* (análise exaustiva, busca por pechinchas quantitativas e estratégias *Net-Net*).
+  4. **Evolução Histórica:** A transição do modelo quantitativo puro de Graham para a visão qualitativa de Warren Buffett (foco em moats e gestão) e a adaptação brasileira feita por Luiz Barsi (foco em dividendos perenes).
+
+- **Fontes Principais Consultadas:**
+  - *Arquitetura e Fundamentos da Metodologia de Investimento de Benjamin Graham*
+  - *Value Investing History* (Columbia Business School)
+  - *Benjamin Graham: 10 Key Indicators for Stock Selection*
+  - *O Valor das Ações pela lógica da Fórmula de Ben Graham*
+  - *Timeless Value Investing Strategies: Lessons from Graham, Greenblatt, and Piotroski*
+  - *Resumo comentado do livro: O Investidor Inteligente* (Musa Capital / BTG Pactual / SejaUmaPessoaMelhor / Arata Academy)
+  - *Generating Excess Returns through Value Investing – Evidence from the Nordic Equity Markets*
 
 ### 5. Link do Notebook Compartilhado
 
-🔗 [https://notebook.google.com/notebook/bfcf60d5-dbed-4aca-82b8-08235cfaea91]
-
-> 
+🔗 [https://notebook.google.com/notebook/bfcf60d5-dbed-4aca-82b8-08235cfaea91] 
