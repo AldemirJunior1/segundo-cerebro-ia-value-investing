@@ -1,5 +1,3 @@
----
-
 ## 📋 Entrega do Desafio DIO — O Que Foi Pedido
 
 ### 1. Tema e Objetivo
